@@ -9,8 +9,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0895721f42d7040fd920c3df51838ad2, type: 3}
-  m_Name: Test Item
+  m_Name: Shield
   m_EditorClassIdentifier: 
-  name: Helmet of Protection
-  icon: {fileID: 0}
+  name: PlaceHolder Shield
+  icon: {fileID: 21300000, guid: 7e001a6d862594a60b896504b90dc0bd, type: 3}
   isDefaultItem: 0
